@@ -1,0 +1,25 @@
+{
+  "name": "rfg-config",
+  "version": "0.0.1",
+  "description": "Post data generator for RealFaviconGenerator API",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rommeo85/rfg-config.git"
+  },
+  "keywords": [
+    "favicon",
+    "config",
+    "generator",
+    "rfg",
+    "RealFaviconGenerator"
+  ],
+  "author": "Roman Langolf <rommeo85@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rommeo85/rfg-config/issues"
+  },
+  "homepage": "https://github.com/Rommeo85/rfg-config"
+}

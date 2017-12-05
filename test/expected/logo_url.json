@@ -1,0 +1,19 @@
+{
+  "api_key": "586975d64501c4a6cafabfdfd146f799f028a046",
+  "master_picture": {
+    "type": "url",
+    "url": "http://via.placeholder.com/80x80"
+  },
+  "files_location": {
+    "type": "path",
+    "path": "/"
+  },
+  "favicon_design": {
+  },
+  "settings": {
+    "compression": "3",
+    "scaling_algorithm": "Mitchell",
+    "error_on_image_too_small": true
+  },
+  "versioning": false
+}
