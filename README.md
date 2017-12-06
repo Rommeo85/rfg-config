@@ -52,7 +52,10 @@ const postData = require('rfg-config').createPost('path/to/logo.png', conf);
 // post
 const Client = require('node-rest-client').Client;
 const client = new Client();
-client.post('https://realfavicongenerator.net/api/favicon', postData, (data, response) => {
+client.post('https://realfavicongenerator.net/api/favicon', {
+    data: postData,
+    headers: { 'Content-Type': 'application/json' }
+  }, (data, response) => {
 // ...
 });
 ```

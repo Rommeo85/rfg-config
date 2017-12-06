@@ -148,6 +148,8 @@ module.exports = {
       delete postData.favicon_design['yandex_browser'];
     }
 
-    return postData;
+    return {
+      favicon_generation: postData
+    };
   }
 };

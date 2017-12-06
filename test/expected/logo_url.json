@@ -1,19 +1,21 @@
 {
-  "api_key": "586975d64501c4a6cafabfdfd146f799f028a046",
-  "master_picture": {
-    "type": "url",
-    "url": "http://via.placeholder.com/80x80"
-  },
-  "files_location": {
-    "type": "path",
-    "path": "/"
-  },
-  "favicon_design": {
-  },
-  "settings": {
-    "compression": "3",
-    "scaling_algorithm": "Mitchell",
-    "error_on_image_too_small": true
-  },
-  "versioning": false
+  "favicon_generation": {
+    "api_key": "2d8a52ca96655fdf4edbd7e408d831999d965ee7",
+    "master_picture": {
+      "type": "url",
+      "url": "http://via.placeholder.com/80x80"
+    },
+    "files_location": {
+      "type": "path",
+      "path": "/"
+    },
+    "favicon_design": {
+    },
+    "settings": {
+      "compression": "3",
+      "scaling_algorithm": "Mitchell",
+      "error_on_image_too_small": true
+    },
+    "versioning": false
+  }
 }
