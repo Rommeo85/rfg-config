@@ -2,6 +2,9 @@
  - Inspired by and originally from [evilebottnawi/favicons](https://github.com/evilebottnawi/favicons)
  - Extracted and reduced to work with the RealFaviconGenerator API only.
 
+[![npm Package](https://img.shields.io/npm/v/rfg-config.svg?style=flat-square)](https://www.npmjs.org/package/rfg-config)
+[![Build Status](https://travis-ci.org/Rommeo85/rfg-config.svg?branch=master)](https://travis-ci.org/Rommeo85/rfg-config)
+
 ### Usage example
 ```js
 // create config
