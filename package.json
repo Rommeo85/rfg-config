@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rommeo85/rfg-config.git"
+    "url": "git+https://github.com/rolang/rfg-config.git"
   },
   "keywords": [
     "favicon",
@@ -19,7 +19,7 @@
   "author": "Roman Langolf <rommeo85@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rommeo85/rfg-config/issues"
+    "url": "https://github.com/rolang/rfg-config/issues"
   },
-  "homepage": "https://github.com/Rommeo85/rfg-config"
+  "homepage": "https://github.com/rolang/rfg-config"
 }
