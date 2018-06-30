@@ -1,6 +1,6 @@
 {
   "name": "rfg-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Post data generator for RealFaviconGenerator API",
   "scripts": {
     "test": "node test/test.js"
